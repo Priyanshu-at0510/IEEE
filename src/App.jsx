@@ -117,7 +117,7 @@ function App() {
               <a href="https://www.instagram.com/accounts/login/?hl=en" target="_blank" rel="noopener noreferrer"><i className="fab fa-instagram"></i></a>
               <a href="https://www.facebook.com/share/1EaeGyF5F5/" target="_blank" rel="noopener noreferrer"><i className="fab fa-facebook"></i></a>
             </div>
-            <p>Contact Us: <a href="mailto:acm_chair@iiitranchi.ac.in">acm_chair@iiitranchi.ac.in</a></p>
+            <p>Contact Us: <a href="mailto:acm_chair@iiitranchi.ac.in">IEEE_chair@iiitranchi.ac.in</a></p>
             <p>© {new Date().getFullYear()} IEEE Student Chapter - IIIT RANCHI. All Rights Reserved.</p>
           </div>
         </footer>
