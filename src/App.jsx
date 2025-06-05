@@ -8,7 +8,6 @@ import OtherMembersList from './components/OtherMembersList';
 import ContactsPage from './pages/ContactsPage';
 import raviShankar from './assets/Ravisir.jpg';
 
-
 // Import images
 
 import priyanshuSingh from "./assets/priyanshu_singh.jpeg"
@@ -40,16 +39,17 @@ function App() {
     },
     {
       post: 'Secretary',
-      name: 'Satya Sanket ',
-      vision: "Leadership is not just about big speeches — it is about accountability, integrity, and trust. As Treasurer, I carry that responsibility with pride and precision.",
-      imageUrl: satyaSanket
-    },
-    {
-      post: 'Treasurer',
       name: 'Arpit Kushwaha',
       vision: 'Our aim is to make the IEEE Student Chapter a hub of innovation, where every student can explore, create, and share technology that makes a difference. Our vision is a community that inspires curiosity, fosters bold ideas, and drives real-world impact.',
       imageUrl: arpitKushwaha
     },
+    {
+      post: 'Treasurer',
+      name: 'Satya Sanket ',
+      vision: "Leadership is not just about big speeches — it is about accountability, integrity, and trust. As Treasurer, I carry that responsibility with pride and precision.",
+      imageUrl: satyaSanket
+    },
+    
     {
       post: 'Webmaster',
       name: 'Nitin Kumar Patwa ',
@@ -63,9 +63,8 @@ function App() {
 
 
   const otherMembers = [
-    'Mohit Verma', 'Sahil Raj','Irfan Ansari','Sahil Aggarwal', 
-    'Ayush Kushwaha', 'Satyam Kumar', 'Shaurya Singh', 
-    'Swapnil', 'Vikram Choudhary', 'Yogeshwar Yadav'
+    'Ayush Kumar Sinha', 'Saurav Ananad','Pranjal Panday','Agniv Saha', 
+    'Ujjwal Kumar'
   ];
 
   return (
